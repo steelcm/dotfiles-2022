@@ -1,0 +1,12 @@
+require('chris.treesitter')
+require('chris.telescope')
+require('chris.nvim-tree')
+require('chris.tokyonight')
+require('chris.lsp')
+require('chris.todo')
+
+require('feline').setup()
+-- require('jakewies.gitsigns')
+-- require('jakewies.lualine')
+-- require('jakewies.lsp')
+-- require('jakewies.bufferline')
